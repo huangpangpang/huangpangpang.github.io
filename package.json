@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/huangpangpang/huangpangpang.github.io/issues"
   },
-  "homepage": "https://github.com/huangpangpang/huangpangpang.github.io#readme"
+  "homepage": "https://github.com/huangpangpang/huangpangpang.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
